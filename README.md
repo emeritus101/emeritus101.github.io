@@ -9,9 +9,9 @@ Move tennis balls around the canvas, identify edges. Exercise and work with vari
 1. Created on 8/25/2021 in VSCode
 
 ### Link for exercise: 
-<a href link="https://emeritus101.github.io/Week02/moving_ball_challange.html" target="_blank">Link to the exercise</a>
+Week02/moving_ball_challange.html
 
-#### License information: 
+### License information: 
 see MIT license release in repository.
 
 
@@ -24,9 +24,9 @@ Random walk is another ball exervice, but using OOP and object referencing. Work
 1. Created on 8/30/2021 in VSCode
 
 ### Link for exercise: 
-<a href link="https://emeritus101.github.io/Week03/one.html"  target="_blank">Link to the exercise</a>
+Week03/one.html
 
-#### License information: 
+### License information: 
 see MIT license release in repository.
 
 
@@ -39,7 +39,7 @@ Move Pacman in the webpage from left to right and reverse. Identify edges and ch
 1. Created on 9/5/2021 in VSCode
 
 ### Link for exercise: 
-<a href link="https://emeritus101.github.io/Week04/pacman.html"  target="_blank">Link to the exercise</a>
+Week04/pacman.html
 
-#### License information: 
+### License information: 
 see MIT license release in repository.
