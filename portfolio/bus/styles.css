@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+    
+  }
+  #map {
+    position:absolute;
+    top: 40;
+    bottom: 70;
+    left: 0;
+    right: 0;
+    height: 80%;
+    width: 100%;
+    align-content: center;
+  }
+  
+  .map-overlay {
+    position: absolute;
+    left: 0;
+    padding: 10px;
+  }
+  
+  .heading {
+      color: brown;
+      color: green;
+      color: black;
+  }
+
+  .instr-bus {
+    float: left;
+    font-size:14px;
+    font-style:normal;
+    font-weight:normal;
+    text-align: left;
+    color:black;
+    margin-left:25px;
+    }
+
+    .bus {
+      position: absolute;
+      top: 50%;
+      /*transform: translateY(-50%);*/
+      width: 100%;
+      text-align: center;
+    }
